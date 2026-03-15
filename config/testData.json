@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.amazon.in",
+    "searchTerm": "iPhone 15",
+    "expectedTitle": "Amazon.in",
+    "minResults": 5
+}
